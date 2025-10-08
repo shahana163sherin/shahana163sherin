@@ -8,7 +8,7 @@
 
 ### 🛠️ My Skills
 
-<table>
+<table align="center">
   <tr>
     <td align="center" style="padding:10px;">
       <div style="background:#0d1117; border-radius:15px; padding:15px; width:120px;">
@@ -92,35 +92,7 @@
 </table>
 
 
-### 🌟 Projects
 
-<table>
-  <tr>
-    <td align="center" style="padding:10px;">
-      <a href="https://github.com/shahana163sherin/DecoraNest" target="_blank">
-        <img src="https://raw.githubusercontent.com/shahana163sherin/DecoraNest/main/assets/preview.png" width="250" style="border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.2);" alt="DecoraNest Frontend"/>
-      </a><br/>
-      🛍️ <a href="https://github.com/shahana163sherin/DecoraNest"><b>DecoraNest (Frontend)</b></a><br/>
-      <sub>E-commerce platform for room décor built with React.js and Tailwind CSS.</sub>
-    </td>
-
-    <td align="center" style="padding:10px;">
-      <a href="https://github.com/shahana163sherin/DecoranestBacknd" target="_blank">
-        <img src="https://raw.githubusercontent.com/shahana163sherin/DecoranestBacknd/main/assets/preview.png" width="250" style="border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.2);" alt="DecoraNest Backend"/>
-      </a><br/>
-      ⚙️ <a href="https://github.com/shahana163sherin/DecoranestBacknd"><b>DecoraNest (Backend)</b></a><br/>
-      <sub>ASP.NET Core Web API backend for the DecoraNest e-commerce platform.</sub>
-    </td>
-
-    <td align="center" style="padding:10px;">
-      <a href="https://github.com/shahana163sherin/front-end-badge" target="_blank">
-        <img src="https://raw.githubusercontent.com/shahana163sherin/front-end-badge/main/assets/preview.png" width="250" style="border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.2);" alt="Search Filter Project"/>
-      </a><br/>
-      🎯 <a href="https://github.com/shahana163sherin/front-end-badge"><b>Search-Filter</b></a><br/>
-      <sub>A React-based project showcasing component design, state management, and UI concepts.</sub>
-    </td>
-  </tr>
-</table>
 
 
 ### 📫 Connect with Me
