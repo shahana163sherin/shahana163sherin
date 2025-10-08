@@ -12,32 +12,26 @@
 
 ### 🛠️ My Skills
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="background:#0d1117; padding:20px; border-radius:15px; width:140px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" /><br/><b>React.js</b>
-  </div>
-  <div style="background:#0d1117; padding:20px; border-radius:15px; width:140px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" /><br/><b>JavaScript</b>
-  </div>
-  <div style="background:#0d1117; padding:20px; border-radius:15px; width:140px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" /><br/><b>C#</b>
-  </div>
-  <div style="background:#0d1117; padding:20px; border-radius:15px; width:140px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" /><br/><b>.NET Core</b>
-  </div>
-  <div style="background:#0d1117; padding:20px; border-radius:15px; width:140px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" /><br/><b>HTML5</b>
-  </div>
-  <div style="background:#0d1117; padding:20px; border-radius:15px; width:140px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" /><br/><b>CSS3</b>
-  </div>
-  <div style="background:#0d1117; padding:20px; border-radius:15px; width:140px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" /><br/><b>Tailwind CSS</b>
-  </div>
-  <div style="background:#0d1117; padding:20px; border-radius:15px; width:140px; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" /><br/><b>Redux</b>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" /><br/><b>React.js</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" /><br/><b>JavaScript</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" /><br/><b>C#</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" /><br/><b>.NET Core</b></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" /><br/><b>HTML5</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" /><br/><b>CSS3</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" /><br/><b>Tailwind CSS</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" /><br/><b>Redux</b></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" /><br/><b>SQL Server</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" /><br/><b>GitHub</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" /><br/><b>Visual Studio</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" /><br/><b>VS Code</b></td>
+  </tr>
+</table>
 
 ---
 
