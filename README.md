@@ -1,23 +1,25 @@
-## Hi there 👋 I'm Shahana Sherin 🚀
+<!-- Banner -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahana163sherin&theme=dracula" alt="Profile Banner" />
+</p>
 
-I'm a **Full-Stack Developer** specializing in **.NET and React.js**.  
-Passionate about building scalable applications and continuously improving my skills.
-
-*"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+# 👋 Hi there, I'm Shahana Sherin 🚀
+💻 **Full-Stack Developer** | .NET & React.js Enthusiast  
+*"Coding is not just a skill, it’s an art of problem solving"* 🎨
 
 ---
 
-### 🔭 Currently working on
-- **E-commerce Web Application** — a room decor store built with React, Redux, and ASP.NET Core
+### 🔭 Currently Working On
+- **E-commerce Web Application** — a room decor store built with React, Redux & ASP.NET Core
 
-### 🌱 Currently learning
+### 🌱 Currently Learning
 - Advanced Redux
 - C# Design Patterns
 - Microservices Architecture
 
-### 📫 Contact
-- Email: [shahanavakkarath@gmail.com](mailto:shahanavakkarath@gmail.com)  
-- LinkedIn: [linkedin.com/in/shahana-sherin-vp-589635384](https://linkedin.com/in/shahana-sherin-vp-589635384)
+### 📫 Contact Me
+- 📧 Email: [shahanavakkarath@gmail.com](mailto:shahanavakkarath@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/shahana-sherin-vp-589635384](https://linkedin.com/in/shahana-sherin-vp-589635384)
 
 ---
 
@@ -31,10 +33,27 @@ Passionate about building scalable applications and continuously improving my sk
 
 ---
 
-
-
 ### 📊 GitHub Stats
-![Shahana Sherin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahana163sherin&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahana163sherin&show_icons=true&theme=radical" alt="Shahana Sherin's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Projects
+<p align="center">
+  <a href="https://github.com/shahana163sherin/DecoranestBacknd" target="_blank">
+    <img src="https://img.shields.io/badge/DecoranestBacknd-Backend-blue?style=for-the-badge&logo=dot-net&logoColor=white&animation=wave" />
+  </a>
+  <a href="https://github.com/shahana163sherin/DecoraNest" target="_blank">
+    <img src="https://img.shields.io/badge/DecoraNest-Frontend-brightgreen?style=for-the-badge&logo=react&logoColor=white&animation=spin" />
+  </a>
+  <a href="https://github.com/shahana163sherin/front-end-badge" target="_blank">
+    <img src="https://img.shields.io/badge/Front-End_Badge-Tailwind-blueviolet?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=pulse" />
+  </a>
+</p>
 
 ---
 
