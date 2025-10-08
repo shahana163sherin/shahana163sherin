@@ -104,8 +104,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahana163sherin&theme=tokyonight" alt="streak stats" />
 </p>
+<div>
 <div align="left">
  <!-- M<ost Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</div>
+  <div align="right">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  </div>
 </div>
 
