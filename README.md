@@ -17,7 +17,7 @@
 
 ### 🛠 Technologies & Tools
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:20px;max-width:900px;">
+<div align="center" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:20px;max-width:900px;">
 
   <!-- C# -->
   <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
