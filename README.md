@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Shahana Sherin</h1>
+<h1 align="center"> Hi, I'm Shahana Sherin</h1>
 <h3 align="center">🚀 Full Stack Developer | .NET & React.js Enthusiast</h3>
 
 <p align="center">
@@ -116,18 +116,16 @@
 
 <div align="center" gap="50px">
   
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shahana163sherin&show_icons=true&theme=radical" alt="GitHub Stats" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahana163sherin&show_icons=true&theme=react-dark" alt="GitHub Stats" height="250" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=radical" alt="Top Languages" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=react-dark" alt="Top Languages" height="250" />
 
   <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=shahana163sherin&theme=radical&hide_border=true" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=shahana163sherin&theme=react-dark&hide_border=true" alt="Contribution Streak" />
 
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahana163sherin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-  
 </div>
 
 
