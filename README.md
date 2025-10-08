@@ -122,16 +122,14 @@
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=radical" alt="Top Languages" height="250" />
 
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=shahana163sherin&theme=radical&hide_border=true" alt="Contribution Streak" />
+
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahana163sherin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
   
 </div>
-<div>
-  <!-- Contribution Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahana163sherin&theme=dark)
-](https://streak-stats.demolab.com/?user=shahana163sherin&theme=dark)
-</div>
+
 
 ---
 
