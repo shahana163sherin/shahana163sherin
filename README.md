@@ -116,18 +116,18 @@
 
 <div align="center" gap="50px">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=shahana163sherin&show_icons=true&theme=react-dark" alt="GitHub Stats" height="250" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shahana163sherin&show_icons=true&theme=blueberry&bg_color=0D1117&title_color=30A2FF&text_color=FFFFFF&icon_color=30A2FF" alt="GitHub Stats" height="250" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=react-dark" alt="Top Languages" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=blueberry&bg_color=0D1117&title_color=30A2FF&text_color=FFFFFF&icon_color=30A2FF" alt="Top Languages" height="250" />
 
   <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=shahana163sherin&theme=react-dark&hide_border=true" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=shahana163sherin&theme=blueberry&background=0D1117&ring=30A2FF&fire=30A2FF&currStreakNum=30A2FF&sideNums=30A2FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="Contribution Streak" />
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahana163sherin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahana163sherin&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=30A2FF&line=30A2FF&point=30A2FF" alt="Contribution Graph" />
 </div>
-
 
 ---
 
