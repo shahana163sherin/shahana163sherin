@@ -110,7 +110,7 @@
 
 
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <!-- React -->
   <div style="width: 130px; background:#0d1117; border:1px solid #30363d; border-radius:15px; padding:15px; text-align:center; box-shadow:0 4px 8px rgba(0,0,0,0.2);">
@@ -194,10 +194,10 @@
 <div align="center">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shahana163sherin&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahana163sherin&show_icons=true&theme=radical" alt="GitHub Stats" height="250" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=radical" alt="Top Languages" height="250" />
 
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahana163sherin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
@@ -208,11 +208,9 @@
 ### 🌱 About Me
 - 🔭 Currently working on **.NET & React projects**
 - 🌱 Learning **Entity Framework, API integration, and advanced Redux**
-- 💬 Ask me about **React, C#, or .NET**
-- 📫 Reach me at: **your.email@example.com**
+
 
 ---
 
-⭐ **_If you like my work, consider giving a star!_**
 
 
