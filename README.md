@@ -17,11 +17,11 @@
 
 ### 🛠 Technologies & Tools
 
-<div align="center" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:20px;max-width:700px;">
+<div  style="display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:20px;max-width:900px;">
   
   <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <p align="center">C#</p>
+    <!-- <p align="center">C#</p> -->
   </div>
 
   <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
@@ -36,17 +36,17 @@
 
   <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <p align="center">Redux</p>
+    <!-- <p align="center">Redux</p> -->
   </div>
 
   <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
     <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-    <p align="center">SQL Server</p>
+    <!-- <p align="center">SQL Server</p> -->
   </div>
 
   <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <p align="center">Tailwind CSS</p>
+    <!-- <p align="center">Tailwind CSS</p> -->
   </div>
 
 </div>
