@@ -17,39 +17,46 @@
 
 ### 🛠 Technologies & Tools
 
-<div  style="display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:20px;max-width:900px;">
-  
-  <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <!-- <p align="center">C#</p> -->
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:20px;max-width:900px;">
+
+  <!-- C# -->
+  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
+    <h4 style="color:white;margin-top:10px;">C#</h4>
   </div>
 
-  <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="ASP.NET Core" />
-    <p align="center">ASP.NET Core</p>
+  <!-- ASP.NET Core -->
+  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="60" height="60" />
+    <h4 style="color:white;margin-top:10px;">ASP.NET Core</h4>
   </div>
 
-  <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <p align="center">React</p>
+  <!-- React -->
+  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" />
+    <h4 style="color:white;margin-top:10px;">React</h4>
   </div>
 
-  <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <!-- <p align="center">Redux</p> -->
+  <!-- Redux -->
+  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" />
+    <h4 style="color:white;margin-top:10px;">Redux</h4>
   </div>
 
-  <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-    <!-- <p align="center">SQL Server</p> -->
+  <!-- SQL Server -->
+  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60" height="60" />
+    <h4 style="color:white;margin-top:10px;">SQL Server</h4>
   </div>
 
-  <div style="background:#0d1117;border-radius:10px;padding:15px;box-shadow:0 4px 6px rgba(0,0,0,0.2);">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <!-- <p align="center">Tailwind CSS</p> -->
+  <!-- Tailwind CSS -->
+  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60" height="60" />
+    <h4 style="color:white;margin-top:10px;">Tailwind CSS</h4>
   </div>
 
 </div>
+
 
 
 
