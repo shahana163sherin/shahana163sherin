@@ -129,8 +129,8 @@
 </div>
 <div>
   <!-- Contribution Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=shahana163sherin&theme=dark)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahana163sherin&theme=dark)
+](https://streak-stats.demolab.com/?user=shahana163sherin&theme=dark)
 </div>
 
 ---
