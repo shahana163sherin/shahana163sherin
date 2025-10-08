@@ -124,6 +124,13 @@
 
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahana163sherin&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+
+  
+</div>
+<div>
+  <!-- Contribution Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=shahana163sherin&theme=dark)
+
 </div>
 
 ---
