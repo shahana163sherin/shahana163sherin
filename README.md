@@ -10,18 +10,42 @@
 
 ### 🌟 Projects
 
-<div align="center">
+### 🌟 Projects
 
-🛍️ <a href="https://github.com/shahana163sherin/DecoraNest" target="_blank"><b>DecoraNest (Frontend)</b></a> —  
-E-commerce platform for room décor built with **React.js** and **Tailwind CSS**.  
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
 
-⚙️ <a href="https://github.com/shahana163sherin/DecoranestBacknd" target="_blank"><b>DecoraNest (Backend)</b></a> —  
-ASP.NET Core Web API backend for the DecoraNest e-commerce platform.  
+  <div align="center">
+    <a href="https://github.com/shahana163sherin/DecoraNest" target="_blank">
+      <img src="https://raw.githubusercontent.com/shahana163sherin/DecoraNest/main/public/preview.png" width="250" style="border-radius:10px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);" alt="DecoraNest Frontend"/>
+    </a>
+    <br>
+    🛍️ <a href="https://github.com/shahana163sherin/DecoraNest" target="_blank"><b>DecoraNest (Frontend)</b></a>  
+    <br>
+    <sub>E-commerce platform for room décor built with <b>React.js</b> and <b>Tailwind CSS</b>.</sub>
+  </div>
 
-🎯 <a href="https://github.com/shahana163sherin/front-end-badge" target="_blank"><b>Search-Filter</b></a> —  
-A React-based project showcasing component design, state management, and UI concepts.
+  <div align="center">
+    <a href="https://github.com/shahana163sherin/DecoranestBacknd" target="_blank">
+      <img src="https://raw.githubusercontent.com/shahana163sherin/DecoranestBacknd/main/preview.png" width="250" style="border-radius:10px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);" alt="DecoraNest Backend"/>
+    </a>
+    <br>
+    ⚙️ <a href="https://github.com/shahana163sherin/DecoranestBacknd" target="_blank"><b>DecoraNest (Backend)</b></a>  
+    <br>
+    <sub>ASP.NET Core Web API backend for the DecoraNest e-commerce platform.</sub>
+  </div>
+
+  <div align="center">
+    <a href="https://github.com/shahana163sherin/front-end-badge" target="_blank">
+      <img src="https://raw.githubusercontent.com/shahana163sherin/front-end-badge/main/preview.png" width="250" style="border-radius:10px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);" alt="Search Filter Project"/>
+    </a>
+    <br>
+    🎯 <a href="https://github.com/shahana163sherin/front-end-badge" target="_blank"><b>Search-Filter</b></a>  
+    <br>
+    <sub>A React-based project showcasing component design, state management, and UI concepts.</sub>
+  </div>
 
 </div>
+
 
 ---
 
