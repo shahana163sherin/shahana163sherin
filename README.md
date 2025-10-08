@@ -1,108 +1,113 @@
+<h1 align="center">👋 Hi, I'm Shahana Sherin</h1>
+<h3 align="center">🚀 Full Stack Developer | .NET & React.js Enthusiast</h3>
 
-# 👋 Hello, I'm Shahana Sherin
-
-💻 **Full-Stack Developer** | .NET & React.js Enthusiast  
-       📍 Based in Malappuram, Kerala, India
-
----
-
-### 🔭 Currently Working On
-- **DecoraNest**: A room decor e-commerce platform built with React, Redux, and ASP.NET Core.
-
-### 🌱 Currently Learning
-- Advanced Redux
-- C# Design Patterns
-- Microservices Architecture
-
-
-### 🛠 Technologies & Tools
-
-<div align="center" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:20px;max-width:900px;">
-
-  <!-- C# -->
-  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
-    <h4 style="color:white;margin-top:10px;">C#</h4>
-  </div>
-
-  <!-- ASP.NET Core -->
-  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="60" height="60" />
-    <h4 style="color:white;margin-top:10px;">ASP.NET Core</h4>
-  </div>
-
-  <!-- React -->
-  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" />
-    <h4 style="color:white;margin-top:10px;">React</h4>
-  </div>
-
-  <!-- Redux -->
-  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" />
-    <h4 style="color:white;margin-top:10px;">Redux</h4>
-  </div>
-
-  <!-- SQL Server -->
-  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60" height="60" />
-    <h4 style="color:white;margin-top:10px;">SQL Server</h4>
-  </div>
-
-  <!-- Tailwind CSS -->
-  <div style="background:#0d1117;border-radius:12px;padding:20px;box-shadow:0 4px 12px rgba(0,0,0,0.3);text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60" height="60" />
-    <h4 style="color:white;margin-top:10px;">Tailwind CSS</h4>
-  </div>
-
-</div>
-
-
-
-
-### 📊 GitHub Stats
-
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; align-items: center; justify-items: center;">
-
-  <!-- Main Stats -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=shahana163sherin&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Shahana Sherin's GitHub Stats" width="100%" />
-  </div>
-
-  <!-- Top Languages -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahana163sherin&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&text_color=ffffff" alt="Top Languages" width="100%" />
-  </div>
-
-  <!-- Streak Stats -->
-  <div style="grid-column: span 2; text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahana163sherin&theme=tokyonight&hide_border=false&background=0d1117&stroke=ffffff" alt="GitHub Streak" width="60%" />
-  </div>
-
-  <!-- Contribution Graph -->
-  <div style="grid-column: span 2; text-align: center;">
-    <img src="https://activity-graph.herokuapp.com/graph?username=shahana163sherin&theme=react-dark&area=true&hide_border=false" alt="GitHub Contribution Graph" width="80%" />
-  </div>
-
-</div>
-
-
----
-
-### 📌 Featured Projects
 <p align="center">
-  <a href="https://github.com/shahana163sherin/DecoranestBacknd">
-    <img src="https://img.shields.io/badge/DecoranestBacknd-Backend-blue?style=for-the-badge&logo=dot-net&logoColor=white" />
-  </a>
-  <a href="https://github.com/shahana163sherin/DecoraNest">
-    <img src="https://img.shields.io/badge/DecoraNest-Frontend-brightgreen?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <!-- <a href="https://github.com/shahana163sherin/front-end-badge">
-    <img src="https://img.shields.io/badge/Front-End_Badge-Tailwind-blueviolet?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </a> -->
+  I’m a passionate developer specializing in <b>ASP.NET Core</b> and <b>React.js</b>, with experience in building modern, scalable web applications.  
+  Currently doing my internship at <b>Bridgeon Solutions</b> and constantly exploring new technologies to enhance my skill set.
 </p>
 
 ---
 
-### ✨ Fun Fact
-_"The best way to predict the future is to invent it."_ — Alan Kay
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br><b>React</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br><b>JavaScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br><b>TypeScript</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br><b>C#</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
+      <br><b>.NET Core</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br><b>HTML5</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      <br><b>CSS3</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+      <br><b>Tailwind CSS</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      <br><b>Redux</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="48" height="48" alt="SQL Server" />
+      <br><b>SQL Server</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br><b>GitHub</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+      <br><b>VS</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      <br><b>VS Code</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+      <br><b>Postman</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🌟 Projects
+- 🛍️ **DecoraNest** — E-commerce platform for room décor built with React & ASP.NET Core.  
+- 📚 **React Hooks Playground** — Learning project exploring useReducer, Context API, and JSON Server.
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahana-sherin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shahanavakkarath@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shahana163sherin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahanaa&theme=tokyonight" alt="streak stats" />
+</p>
+
