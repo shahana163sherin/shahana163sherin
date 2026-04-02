@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shahana Sherin</h1>
+<!-- <h1 align="center">Hi, I'm Shahana Sherin</h1>
 <h3 align="center">🚀 Full Stack Developer | .NET & React.js Enthusiast</h3>
 
 ---
@@ -69,4 +69,97 @@
 ### 🌱 About Me
 
 - 🔭 Currently working on **.NET & React projects**
-- 🌱 Learning **Entity Framework, API integration, and advanced Redux**
+- 🌱 Learning **Entity Framework, API integration, and advanced Redux** -->
+
+
+<h1 align="center">Shahana Sherin</h1>
+<h3 align="center">Full Stack Developer | ASP.NET Core • React • Scalable Web Applications</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=3AA6FF&center=true&vCenter=true&width=600&lines=Building+Production+Ready+Applications;Backend+Focused+Full+Stack+Developer;Clean+Architecture+%7C+Efficient+Systems" />
+</p>
+
+---
+
+## Profile
+
+Full Stack Developer specializing in ASP.NET Core and React, with hands-on experience building real-world web applications.
+
+Focused on designing scalable backend systems, structuring clean APIs, and building responsive, efficient frontends. Strong emphasis on maintainability, performance, and structured data flow.
+
+Currently working at Bridgeon Solutions, contributing to live application development and continuously improving system design practices.
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,cs,dotnet,html,css,tailwind,redux,mysql,git,github,vscode,visualstudio&theme=dark" />
+</p>
+
+---
+
+## Project Experience
+
+### E-Commerce Application (Full Stack)
+
+<p><b>Architecture:</b> React (Frontend) + ASP.NET Core Web API (Backend)</p>
+
+<table>
+<tr>
+<td width="50%">
+
+**Backend**
+- Designed RESTful APIs for users, cart, wishlist, and orders  
+- Implemented authentication and user-based data handling  
+- Managed database operations using Entity Framework and SQL Server  
+- Structured scalable endpoints and handled error management  
+
+</td>
+
+<td width="50%">
+
+**Frontend**
+- Built responsive UI using React and Tailwind CSS  
+- Implemented state management using Context API and Redux  
+- Integrated APIs using Axios with optimized data flow  
+- Developed dynamic features: search, filtering, pagination  
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Focus
+
+- Clean Architecture and modular code structure  
+- API design and client-server communication  
+- State synchronization between frontend and backend  
+- Performance optimization and efficient rendering  
+- Debugging and structured problem-solving  
+
+---
+
+## Currently Developing
+
+- Advanced Redux patterns  
+- API performance optimization  
+- CI/CD pipelines and deployment workflows  
+- Scalable system design concepts  
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahanasherinvp">
+    <img src="https://img.shields.io/badge/LinkedIn-3AA6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shahanavakkarath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shahana163sherin">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
