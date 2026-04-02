@@ -73,80 +73,113 @@
 
 
 <h1 align="center">Shahana Sherin</h1>
-<h3 align="center">Full Stack Developer | ASP.NET Core • React • Scalable Web Applications</h3>
+<h3 align="center">Backend .NET Developer | ASP.NET Core • Scalable APIs • Clean Architecture</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=3AA6FF&center=true&vCenter=true&width=600&lines=Building+Production+Ready+Applications;Backend+Focused+Full+Stack+Developer;Clean+Architecture+%7C+Efficient+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=3AA6FF&center=true&vCenter=true&width=650&lines=Backend+Focused+.NET+Developer;Building+Production+Grade+APIs;Clean+Architecture+%7C+CQRS+%7C+Scalable+Systems" />
 </p>
 
 ---
 
-## Profile
+## Profile Summary
 
-Full Stack Developer specializing in ASP.NET Core and React, with hands-on experience building real-world web applications.
+Backend .NET Developer with hands-on experience building production-grade REST APIs using ASP.NET Core, SQL Server, and Dapper.
 
-Focused on designing scalable backend systems, structuring clean APIs, and building responsive, efficient frontends. Strong emphasis on maintainability, performance, and structured data flow.
+Strong focus on Clean Architecture, CQRS (MediatR), and secure system design using JWT authentication and role-based access control.
 
-Currently working at Bridgeon Solutions, contributing to live application development and continuously improving system design practices.
+Comfortable owning backend systems end-to-end and collaborating with frontend teams using React and Redux when required.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,cs,dotnet,html,css,tailwind,redux,mysql,git,github,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,tailwind,redux,mysql,git,github,vscode,visualstudio,docker&theme=dark" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/>C#</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/><br/>.NET Core</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>HTML5</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>CSS3</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/><br/>Tailwind</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/><br/>Redux</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/><br/>SQL Server</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>Docker</td>
+    <td align="center"><img src="https://img.shields.io/badge/Dapper-1E90FF?style=flat-square"/><br/>Dapper</td>
+    <td align="center"><img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square"/><br/>EF Core</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/LINQ-0078D7?style=flat-square"/><br/>LINQ</td>
+    <td align="center"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/><br/>Redis</td>
+    <td align="center"><img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square"/><br/>SignalR</td>
+    <td align="center"><img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/><br/>Razorpay</td>
+  </tr>
+</table>
 
 ---
 
-## Project Experience
+## Key Projects
 
-### E-Commerce Application (Full Stack)
+### SPL (Samskara Premier League) — Sports Management SaaS
 
-<p><b>Architecture:</b> React (Frontend) + ASP.NET Core Web API (Backend)</p>
+**Tech:** ASP.NET Core, SQL Server, Dapper, React
 
-<table>
-<tr>
-<td width="50%">
+- Built backend APIs using Clean Architecture and CQRS (MediatR)  
+- Implemented JWT authentication, RBAC, and Google login  
+- Designed modules for tournaments, teams, players, auctions, and reporting  
+- Integrated secure payment workflows with server-side validation  
+- Optimized database performance using Dapper  
 
-**Backend**
-- Designed RESTful APIs for users, cart, wishlist, and orders  
-- Implemented authentication and user-based data handling  
-- Managed database operations using Entity Framework and SQL Server  
-- Structured scalable endpoints and handled error management  
+---
 
-</td>
+### CollabHub — Team Collaboration Platform
 
-<td width="50%">
+**Tech:** ASP.NET Core, React
 
-**Frontend**
-- Built responsive UI using React and Tailwind CSS  
-- Implemented state management using Context API and Redux  
-- Integrated APIs using Axios with optimized data flow  
-- Developed dynamic features: search, filtering, pagination  
+- Designed backend APIs with layered architecture  
+- Implemented authentication and role-based access control  
+- Built features for task management, team workflows, and user roles  
+- Integrated backend services with React frontend  
 
-</td>
-</tr>
-</table>
+---
+
+## Experience
+
+**.NET Developer — Kodlar Innovations**  
+Nov 2025 – Present | Calicut  
+
+- Building production-grade REST APIs using ASP.NET Core and Dapper  
+- Applying Clean Architecture, CQRS, and MediatR in real systems  
+- Implementing secure authentication and RBAC  
+- Optimizing SQL queries and improving system performance  
+
+---
+
+**.NET Developer Intern — Bridgeon Solutions**  
+May 2025 – Present | Malappuram  
+
+- Developed backend APIs using ASP.NET Core and Entity Framework  
+- Used Dapper for optimized data access  
+- Integrated APIs with frontend applications  
+- Worked in Agile environment and improved debugging and collaboration  
 
 ---
 
 ## Engineering Focus
 
-- Clean Architecture and modular code structure  
-- API design and client-server communication  
-- State synchronization between frontend and backend  
-- Performance optimization and efficient rendering  
-- Debugging and structured problem-solving  
-
----
-
-## Currently Developing
-
-- Advanced Redux patterns  
+- Clean Architecture and separation of concerns  
+- CQRS and scalable backend design  
+- Secure authentication (JWT, RBAC)  
 - API performance optimization  
-- CI/CD pipelines and deployment workflows  
-- Scalable system design concepts  
+- Structured debugging and problem-solving  
 
 ---
 
