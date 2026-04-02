@@ -93,9 +93,7 @@ Comfortable owning backend systems end-to-end and collaborating with frontend te
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,tailwind,redux,mysql,git,github,vscode,visualstudio,docker&theme=dark" />
-</p>
+
 
 <table align="center">
   <tr>
